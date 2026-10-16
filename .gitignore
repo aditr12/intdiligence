@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js (frontend/.gitignore covers the rest)
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Secrets and local env files
+.env*
+
+# OS / editor
+.DS_Store

@@ -1,0 +1,424 @@
+{
+  "_meta": {
+    "description": "Live SEC EDGAR filings for AAPL",
+    "is_mock": false,
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "cik": "0000320193",
+    "fetched_at": "2026-09-28T17:54:00.906286+00:00"
+  },
+  "def14a": {
+    "form_type": "DEF 14A",
+    "accession_number": "0001308179-26-000008",
+    "filing_date": "2026-01-08",
+    "peo_name": "Mr. Cook",
+    "peo_total_comp": 74294811.0,
+    "excerpts": {
+      "summary_compensation_table": "",
+      "potential_payments_upon_termination_or_cic": "",
+      "golden_parachute_compensation": ""
+    }
+  },
+  "form4": [
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-037584",
+      "filing_date": "2026-09-24",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Government Affairs",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-09-22",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2399.0,
+          "price_per_share": 340.06,
+          "transaction_amount": 815803.9400000001,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-037020",
+      "filing_date": "2026-09-17",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Government Affairs",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-09-15",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1438.0,
+          "price_per_share": 330.19,
+          "transaction_amount": 474813.22,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-15",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 30104.0,
+          "price_per_share": null,
+          "transaction_amount": null,
+          "currency": "USD",
+          "footnote_ids": [
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock [F3]",
+          "transaction_date": "2026-09-15",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 16228.0,
+          "price_per_share": 331.34,
+          "transaction_amount": 5376985.52,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026.",
+        "F2": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date.",
+        "F3": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs. No shares were sold.",
+        "F4": "This award was granted on February 15, 2026. 20% of the total number of RSUs subject to the award vested on March 15, 2026, and 10% of the total number of RSUs subject to the award vested on each of June 15, 2026 and September 15, 2026. 10% of the total number of RSUs subject to the award are scheduled to vest on December 15, 2026; 8.75% of the total number of RSUs subject to the award are scheduled to vest on each of March 15, June 15, September 15 and December 15, 2027; 2.5% of the total number of RSUs subject to the award are scheduled to vest on each of March 15, June 15, September 15 and December 15, 2028; and 1.25% of the total number of RSUs subject to the award are scheduled to vest on each of March 15, June 15, September 15 and December 15, 2029, subject to the terms and conditions of the underlying award agreement."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-036226",
+      "filing_date": "2026-09-10",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Government Affairs",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-09-08",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1438.0,
+          "price_per_share": 317.23,
+          "transaction_amount": 456176.74000000005,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-035636",
+      "filing_date": "2026-09-03",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Government Affairs",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-09-01",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1439.0,
+          "price_per_share": 317.01,
+          "transaction_amount": 456177.39,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-035362",
+      "filing_date": "2026-09-01",
+      "reporting_owner": {
+        "name": "John Ternus",
+        "relationship": "Officer",
+        "officer_title": "CEO",
+        "is_officer": true,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [],
+      "footnotes": {
+        "F1": "Each restricted stock unit (\"RSUs\") represents the right to receive, at settlement, one share of common stock.",
+        "F2": "This RSU award was granted September 1, 2026, with 12.5% of the RSUs scheduled to vest on March 15, 2027 and the remaining RSUs scheduled to vest 12.5% in semi-annual installments over a four-year period ending September 15, 2030, subject to the terms and conditions of the underlying award agreement."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-034741",
+      "filing_date": "2026-08-27",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Secretary",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-08-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1439.0,
+          "price_per_share": 310.95,
+          "transaction_amount": 447457.05,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-033928",
+      "filing_date": "2026-08-20",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Secretary",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-08-18",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1439.0,
+          "price_per_share": 307.49,
+          "transaction_amount": 442478.11,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-032884",
+      "filing_date": "2026-08-13",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Secretary",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock [F1]",
+          "transaction_date": "2026-08-11",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1439.0,
+          "price_per_share": 307.75,
+          "transaction_amount": 442852.25,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 5, 2026."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-025622",
+      "filing_date": "2026-06-17",
+      "reporting_owner": {
+        "name": "Jennifer Newstead",
+        "relationship": "Officer",
+        "officer_title": "SVP, GC and Secretary",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 30104.0,
+          "price_per_share": null,
+          "transaction_amount": null,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock [F2]",
+          "transaction_date": "2026-06-15",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 16238.0,
+          "price_per_share": 296.42,
+          "transaction_amount": 4813267.96,
+          "currency": "USD",
+          "footnote_ids": [
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date.",
+        "F2": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs. No shares were sold.",
+        "F3": "This award was granted on February 15, 2026. 20% of the total number of RSUs subject to the award vested on March 15, 2026, and 10% of the total number of RSUs subject to the award vested on June 15, 2026. 10% of the total number of RSUs subject to the award  are scheduled to vest on each of September 15 and December 15, 2026; 8.75% of the total number of RSUs subject to the award are scheduled to vest on each of March 15, June 15, September 15 and December 15, 2027; 2.5% of the total number of RSUs subject to the award are scheduled to vest on each of March 15, June 15, September 15 and December 15, 2028; and 1.25% of the total number of RSUs subject to the award are scheduled to vest on each of March 15, June 15, September 15 and December 15, 2029, subject to the terms and conditions of the underlying award agreement."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001140361-26-025620",
+      "filing_date": "2026-06-17",
+      "reporting_owner": {
+        "name": "Ben Borders",
+        "relationship": "Officer",
+        "officer_title": "Principal Accounting Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 240.0,
+          "price_per_share": null,
+          "transaction_amount": null,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock [F2]",
+          "transaction_date": "2026-06-15",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 124.0,
+          "price_per_share": 296.42,
+          "transaction_amount": 36756.08,
+          "currency": "USD",
+          "footnote_ids": [
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock [F3]",
+          "transaction_date": "2026-06-16",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 116.0,
+          "price_per_share": 295.14,
+          "transaction_amount": 34236.24,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Each restricted stock unit (\"RSU\") represents the right to receive, at settlement, one share of common stock. This transaction represents the settlement of RSUs in shares of common stock on their scheduled vesting date.",
+        "F2": "Shares withheld by Apple to satisfy tax withholding requirements on vesting of RSUs.",
+        "F3": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on February 6, 2026.",
+        "F4": "This restricted stock unit award was granted December 15, 2025, and vests in equal installments on a semi-annual basis over a four year period ending December 15, 2029, subject to the terms and conditions of the underlying award agreement."
+      }
+    }
+  ]
+}

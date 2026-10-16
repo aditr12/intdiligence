@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "description": "MOCK SEC filing data for NVDA. Synthetic values for testing only; not real filings.",
+    "is_mock": true,
+    "ticker": "NVDA",
+    "company_name": "NVIDIA Corporation",
+    "cik": "0001045810",
+    "generated_at": "2026-09-28"
+  },
+  "def14a": {
+    "form_type": "DEF 14A",
+    "accession_number": "0000000000-25-000001",
+    "filing_date": "2025-05-12",
+    "fiscal_year": 2025,
+    "executives": [
+      {
+        "name": "Mock Executive A",
+        "title": "Chief Executive Officer",
+        "compensation": {
+          "base_salary": 1500000,
+          "currency": "USD"
+        },
+        "golden_parachute": {
+          "total_payment": 8000000,
+          "currency": "USD",
+          "trigger": "Termination without cause or resignation for good reason within 12 months following a change in control"
+        }
+      }
+    ]
+  },
+  "form4": [
+    {
+      "form_type": "4",
+      "accession_number": "0000000000-25-000002",
+      "filing_date": "2025-11-17",
+      "reporting_owner": {
+        "name": "Mock Executive A",
+        "relationship": "Officer",
+        "officer_title": "Chief Executive Officer"
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": "2025-10-01"
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2025-11-15",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 12500,
+          "price_per_share": 200.0,
+          "transaction_amount": 2500000,
+          "currency": "USD",
+          "footnote_ids": ["F1"]
+        }
+      ],
+      "footnotes": {
+        "F1": "The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on October 1, 2025."
+      }
+    }
+  ],
+  "verification": {
+    "exact_footnote_quote": "The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on October 1, 2025.",
+    "source": {
+      "form_type": "4",
+      "accession_number": "0000000000-25-000002",
+      "footnote_id": "F1"
+    }
+  }
+}

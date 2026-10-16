@@ -1,0 +1,604 @@
+{
+  "_meta": {
+    "description": "Live SEC EDGAR filings for NVDA",
+    "is_mock": false,
+    "ticker": "NVDA",
+    "company_name": "NVIDIA CORP",
+    "cik": "0001045810",
+    "fetched_at": "2026-09-28T16:45:22.959123+00:00"
+  },
+  "def14a": {
+    "form_type": "DEF 14A",
+    "accession_number": "0001045810-26-000036",
+    "filing_date": "2026-05-12",
+    "peo_name": "Jen-Hsun Huang",
+    "peo_total_comp": 36343830.0,
+    "excerpts": {
+      "summary_compensation_table": "Summary Compensation Table for Fiscal 2026, 2025, and 2024\n\nThe following table summarizes information regarding the compensation earned by our NEOs during Fiscal 2026, 2025, and 2024.  Fiscal 2026, 2025, and 2024 were 52-week years. \n\nName and Principal Position  Fiscal  Salary  Stock  Non-Equity Incentive Plan Compensation  All Other  Total\nAwards  ($) (2)  ($) (3)\n($) (1)\nYear  ($)  Compensation\n($)\nJen-Hsun Huang  2026  1,497,627  24,800,511  6,000,000  4,045,691  (4)  36,343,830\nPresident and CEO  2025  1,486,199  38,811,306  6,000,000  3,568,746  49,866,251\n2024  996,514  26,676,415  4,000,000  2,494,973  34,167,902\nColette M. Kress  2026  898,577  12,825,872  600,000  16,402  (5)  14,340,850\nEVP and CFO  2025  893,739  19,849,891  600,000  18,902  21,362,532\n2024  896,863  11,756,027  600,000  13,902  13,266,792\nAjay K. Puri  2026  948,497  12,478,989  1,300,000  49,840  (5)  14,777,327\nEVP, Worldwide Field Operations  2025  943,391  19,277,046  1,300,000  70,460  21,590,897\n2024  946,689  11,320,353  1,300,000  48,408  13,615,450\nDebora Shoquist  2026  848,656  12,912,487  500,000  33,567  (5)  14,294,710\nEVP, Operations  2025  844,087  17,838,832  500,000  34,984  19,217,903\n2024  847,037  9,687,599  500,000  24,229  11,058,865\nTimothy S. Teter  2026  848,656  12,912,487  500,000  15,240  (5)  14,276,382\nEVP, General Counsel and Secretary  2025  844,087  17,838,832  500,000  18,902  19,201,821\n2024  847,037  9,687,599  500,000  13,902  11,048,538\n\n(1)Amounts shown do not reflect dollar amounts actually received by the NEO, and may not reconcile to corresponding amounts presented in other tables due to differences in rounding.  Instead, these amounts reflect the aggregate full grant date fair value calculated in accordance with ASC 718 for the respective fiscal year for grants of RSUs, SY PSUs, and MY PSUs, as applicable.  The assumptions used in the calculation of values of the awards are set forth under Note 3 to our consolidated financial statements titled Stock-Based Compensation in our Form 10-K.  The reported grant date fair value stock awards with performance-based vesting conditions assumes the probable outcome of the conditions at Base Compensation Plan for SY PSUs and MY PSUs, determined in accordance with applicable accounting standards.\n\nAssuming Stretch Compensation Plan performance for SY PSUs and MY PSUs granted in each of Fiscal 2026, 2025, and 2024, and a stock price equal to the grant date fair value of the SY PSUs and MY PSUs, the value of stock awards would be:\n\nJen-Hsun Huang  Colette M. Kress  Ajay K. Puri  Debora Shoquist  Timothy S. Teter\nFiscal Year  SY PSU  MY PSU  SY PSU  MY PSU  SY PSU  MY PSU  SY PSU  MY PSU  SY PSU  MY PSU\n($)  ($)  ($)  ($)  ($)  ($)  ($)  ($)  ($)  ($)\n2026  19,166,424  18,034,343  6,099,993  7,350,483  5,935,261  7,151,981  6,141,443  7,400,430  6,141,443  7,400,430\n2025  25,046,748  33,170,211  8,377,781  14,564,690  8,136,366  14,144,993  7,529,332  13,089,669  7,529,332  13,089,669\n2024  23,130,937  22,666,270  15,613,188  1,937,350  15,034,811  1,865,423  12,866,300  1,596,476  12,866,300  1,596,476\n\n(2)As applicable, reflects amounts earned in Fiscal 2026, 2025, and 2024 and paid in March or April of the fiscal year immediately following each respective year pursuant to the respective Variable Cash Plan.  For further information, please see our CD&A above.\n\n(3)Due to rounding, numbers presented may not sum precisely to the totals provided.\n\n(4)Reflects (a) the aggregate incremental costs to the Company of residential security, security during personal travel, and consultation fees and driver services (in the amount of $3,975,533, reflecting the full cost to the Company), security monitoring services, car expenses, and Mr. Huang\u2019s personal guests who accompanied him during business travel on private aircraft, though at no or de minimis incremental cost to us, (b) a $11,500 match of contributions to our 401(k) savings plan, and (c) $21,904 in life insurance premiums.  The 401(k) contribution match and insurance coverage are available to all eligible NVIDIA employees.  \n\n(5)Includes matches of contributions to our 401(k) savings plan and imputed income from life insurance coverage.  These benefits are available to all eligible NVIDIA employees.  For Fiscal 2026, the match of 401(k) contributions was $11,500 for Ms. Kress, $10,708 for Mr. Puri, $10,083 for Ms. Shoquist, and $10,083 for Mr. Teter; and the dollar values of life insurance premiums were $4,902 for Ms. Kress, $39,132 for Mr. Puri, $23,484 for Ms. Shoquist, and $5,121 for Mr. Teter.\n\nGrants of Plan-Based Awards for Fiscal 2026\n\nThe following table provides information regarding all grants of plan-based awards that were made to or earned by our NEOs during Fiscal 2026.  The information in this table supplements the dollar value of stock awards set forth in the Summary Compensation Table for Fiscal 2026, 2025, and 2024.  The PSU and RSU awards set forth in the following table were made under our 2007 Plan.  PSUs are eligible to vest based on performance against pre-established criteria.  All equity awards listed are subject to service-based vesting.\n\nName  Grant  Estimated Possible Payouts Under Non-Equity Incentive Plan Awards (1)  Estimated Future Payouts Under Equity Incentive Plan Awards (2)  All Other Stock  Grant Date\nAwards: Number of Shares of Stock  Fair Value\nor Units (#) (3)  of Stock\nAwards ($) (4)\nDate\nType of Award  Threshold ($)  Target ($)  Maximum ($)  Threshold (#)  Target (#)  Maximum (#)\nJen-Hsun Huang  SY PSU  3/10/25  \u2014  59,804  119,607  179,411  \u2014  12,777,616\nMY PSU  3/10/25  \u2014  29,902  119,607  179,411  \u2014  12,022,896\nVariable Cash Plan  3/3/25  1,500,000  3,000,000  6,000,000  \u2014  \u2014  \u2014\nColette M. Kress  SY PSU  3/10/25  \u2014  14,275  28,550  57,100  \u2014  3,049,997\nMY PSU  3/10/25  \u2014  7,138  28,550  57,100  \u2014  3,675,242\nRSU  3/10/25  \u2014  \u2014  57,106  6,100,634\nVariable Cash Plan  3/3/25  150,000  300,000  600,000  \u2014  \u2014  \u2014\nAjay K.  SY PSU  3/10/25  \u2014  13,890  27,779  55,558  \u2014  2,967,631\nPuri\nMY PSU  3/10/25  \u2014  6,945  27,779  55,558  \u2014  3,575,991\nRSU  3/10/25  \u2014  \u2014  55,559  5,935,368\nVariable Cash Plan  3/3/25  325,000  650,000  1,300,000  \u2014  \u2014  \u2014\nDebora Shoquist  SY PSU  3/10/25  \u2014  14,372  28,744  57,488  \u2014  3,070,722\nMY PSU  3/10/25  \u2014  7,186  28,744  57,488  \u2014  3,700,215\nRSU  3/10/25  \u2014  \u2014  57,489  6,141,550\nVariable Cash Plan  3/3/25  125,000  250,000  500,000  \u2014  \u2014  \u2014\nTimothy S. Teter  SY PSU  3/10/25  \u2014  14,372  28,744  57,488  \u2014  3,070,722\nMY PSU  3/10/25  \u2014  7,186  28,744  57,488  \u2014  3,700,215\nRSU  3/10/25  \u2014  \u2014  57,489  6,141,550\nVariable Cash Plan  3/3/25  125,000  250,000  500,000  \u2014  \u2014  \u2014\n\n(1)Represents range of awards payable under our Fiscal 2026 Variable Cash Plan.\n\n(2)Represents range of shares eligible to be earned with respect to PSUs.  \n\n(3)Represents RSUs granted.\n\n(4)Amounts shown in this column do not reflect dollar amounts actually received by the NEO, and may not reconcile to corresponding amounts presented in other tables due to differences in rounding.  Instead, these amounts reflect the aggregate full grant date fair value calculated in accordance with ASC 718 for the awards.  The assumptions used in the calculation of values of the awards are set forth under Note 3 to our consolidated financial statements titled Stock-Based Compensation in our Form 10-K.  With regard to the stock awards with performance-based vesting conditions, the reported grant date fair value assumes the probable outcome of the conditions at Base Compensation Plan performance for SY PSUs and MY PSUs, determined in accordance with applicable accounting standards.  \n\nOutstanding Equity Awards as of January 25, 2026\n\nThe following table presents information regarding outstanding equity awards held by our NEOs as of January\u00a025, 2026. \n\nName  Stock Awards\nNumber of  Market Value of Units of Stock That Have Not  Equity Incentive Plan Awards: Number of Unearned Shares That Have Not Vested (#)  Equity Incentive Plan Awards: Ma",
+      "potential_payments_upon_termination_or_cic": "Potential Payments Upon Termination or Change-in-Control\n\nUpon a change-in-control or certain other corporate transactions of NVIDIA, unvested RSUs, and PSUs will fully vest in some cases as described above under Employment, Severance, and Change-in-Control Arrangements\u2014Change-in-Control Arrangements.  The table below shows our estimates of the amount of the benefit each of our NEOs would have received if the unvested RSUs and PSUs held by them as of January\u00a025, 2026 had become fully vested as a result of a change-in-control, calculated by multiplying the number of unvested RSUs and PSUs held by the applicable NEO by the closing price ($187.67) of NVIDIA\u2019s common stock on January\u00a023, 2026, the last trading day before the end of our Fiscal 2026, as reported by Nasdaq. \n\nName  Unvested RSUs and PSUs at January 25, 2026 (#) (1)  Total Estimated Benefit ($) (1)\nJen-Hsun Huang  1,411,679  264,929,798\nColette M. Kress  569,889  106,951,069\nAjay K. Puri  551,090  103,423,060\nDebora Shoquist  500,148  93,862,775\nTimothy S. Teter  500,148  93,862,775\n\n(1)    With respect to unvested PSUs, the amounts in these columns assume performance at Base Compensation Plan with respect to SY PSUs granted in Fiscal 2026 and with respect to MY PSUs granted in Fiscal 2024, Fiscal 2025, and Fiscal 2026, in accordance with SEC rules.  The two tables below reflect the actual numbers of the SY PSUs granted in Fiscal 2026 and MY PSUs granted in Fiscal 2024 that became eligible to vest, based on our performance during the relevant performance period for such awards, as certified by our CC shortly after the end of Fiscal 2026.  The values of the estimated and actual SY PSUs and MY PSUs in the table below were calculated by multiplying the applicable number of SY PSUs and MY PSUs held by each respective NEO and listed below, by the closing price ($187.67) of NVIDIA\u2019s common stock on January\u00a023, 2026, the last trading day before the end of our Fiscal 2026, as reported by Nasdaq.  \n\nSY PSUs granted in Fiscal 2026 - Actual Achievement (versus Base Compensation Plan Performance)\n\nName  Estimated SY PSUs Granted in Fiscal 2026 at Base Compensation Plan Performance (#)  Value of Estimated SY PSUs Granted in Fiscal 2026 at Base Compensation Plan Performance ($)  Actual SY PSUs  Value of Actual SY PSUs Granted in Fiscal 2026 Eligible to Vest ($)\nGranted in Fiscal 2026 Eligible to Vest (#)\nJen-Hsun Huang  119,607  22,446,646  179,411  33,670,062\nColette M. Kress  28,550  5,357,979  57,100  10,715,957\nAjay K. Puri  27,779  5,213,285  55,558  10,426,570\nDebora Shoquist  28,744  5,394,386  57,488  10,788,773\nTimothy S. Teter  28,744  5,394,386  57,488  10,788,773\n\nMY PSUs granted in Fiscal 2024 - Actual Achievement (versus Base Compensation Plan Performance)\n\nName  Estimated MY PSUs Granted in Fiscal 2024 at Base Compensation Plan Performance (#)  Value of Estimated MY PSUs Granted in Fiscal 2024 at Base Compensation Plan Performance ($)  Actual MY PSUs Granted in Fiscal 2024 Eligible to Vest (#)  Value of Actual MY PSUs Granted in Fiscal 2024 Eligible to Vest ($)\nJen-Hsun Huang  504,910  94,756,460  757,360  142,133,751\nColette M. Kress  24,780  4,650,463  49,560  9,300,925\nAjay K. Puri  23,860  4,477,806  47,720  8,955,612\nDebora Shoquist  20,420  3,832,221  40,840  7,664,443\nTimothy S. Teter  20,420  3,832,221  40,840  7,664,443\n\nThe actual number of MY PSUs granted in Fiscal 2025 and Fiscal 2026 that will become eligible to vest will be determinable after January 31, 2027 and January 30, 2028, respectively, the ending dates of the applicable three-year measurement period for MY PSUs.  \n\nPay Ratio\n\nWe determined the ratio of: (a) the annual total compensation of our CEO to (b) the median of the annual total compensation of all our employees, except for our CEO, both calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K.\n\nBecause there have been no changes to our employee population or employee compensation arrangements since the end of Fiscal 2024 that would significantly impact our pay ratio disclosure for Fiscal 2026, we used the median employee from our Fiscal 2024 pay ratio calculation in our Fiscal 2026 pay ratio calculation.  We determined our Fiscal 2024 median employee by using a consistently applied compensation measure, which aggregated, for each employee employed by us on the last day of Fiscal 2024, or January 28, 2024: (i) target base salary as of January 28, 2024 (annualized for permanent employees who were employed by us for less than the entire fiscal year), (ii) variable cash earned during Fiscal 2024, and (iii) aggregate full grant date fair value of equity awards granted during Fiscal 2024, calculated in accordance with ASC 718 and assuming the probable outcome of the conditions at Base Compensation Plan for performance-based awards.  Compensation paid in foreign currencies was converted to U.S. dollars based on exchange rates in effect on January 28, 2024.  \n\nOur median employee\u2019s total compensation for Fiscal 2026 was $282,050.  Our CEO\u2019s Fiscal 2026 total compensation was $36,343,830.  Therefore, our Fiscal 2026 CEO to median employee\u00a0pay ratio\u00a0was 129:1.\n\nThis pay ratio represents a reasonable estimate of the relationship between the compensation of our CEO and that of our median employee for Fiscal 2026, calculated in a manner consistent with Item 402(u) of Regulation S-K and applicable guidance, which provide significant flexibility in how companies identify the median employee.  Each company may use a different methodology, apply different exclusions, and make different assumptions.  As a result, the pay ratio reported by other companies may not be comparable to ours. \n\nPay Versus Performance \n\nNVIDIA\u2019s executive compensation program is guided by a pay for performance philosophy and is designed to align NEO pay with our stockholders\u2019 interests.  Accordingly, a substantial portion of our NEOs\u2019 total compensation is based on the Company\u2019s performance under certain corporate financial metric goals, which for Fiscal 2026 included annual revenue, annual Non-GAAP Operating Income, and 3-year TSR relative to the S&P 500.  \n\nAmounts set forth below as \u201ccompensation actually paid,\u201d or CAP, have been calculated in accordance with Item 402(v) of Regulation S-K under the Securities Act, and do not represent the value of compensation actually paid to or received by our NEOs.  For a discussion of our executive compensation program and philosophy, refer to our CD&A above.\n\nThe following table summarizes information regarding compensation for our NEOs, including CAP as well as certain financial performance metrics, during Fiscal 2022-2026.  Fiscal 2022-2026 were 52-week years.  \n\nValue of Initial Fixed $100 Investment Based on (7):\nFiscal Year  Summary Compensation Table Total for CEO  Compensation Actually Paid  Average Summary Compensation Table Total for Non-CEO NEOs  Average Compensation Actually Paid to Non-CEO NEOs  Total Shareholder Return  Peer Group Total Shareholder Return  Net Income  Non-GAAP Operating Income\n($) (1) (2)  to CEO  ($) (4) (5)  ($) (4) (6)  ($) (8)  (in millions)\n($) (1) (3)  ($) (9)\n($)  (in millions)\n($)\n2026  36,343,830  162,180,936  14,422,317  57,721,552  1,445.67  198.10  120,067  137,300\n2025  49,866,251  344,188,027  20,343,288  125,583,913  1,100.69  168.46  72,880  86,789\n2024  34,167,902  234,132,305  12,247,411  85,558,057  470.88  134.78  29,760  37,134\n2023  21,356,924  (4,118,947)  9,941,838  (1,364,661)  157.05  94.13  4,368  9,040\n2022  23,737,661  105,543,768  8,910,802  38,453,071  175.98  111.83  9,752  12,690\n\n(1)  For Fiscal 2022-2026, our CEO was Jen-Hsun Huang.\n\n(2)  The amounts in this column correspond with total compensation for our CEO as reported in our Summary Compensation Table above for the listed fiscal years.\n\n(3)  The amounts in this column represent CAP calculated in accordance with Item 402(v) of Regulation S-K during the listed fiscal years.  Adjustments to the Summary Compensation T",
+      "golden_parachute_compensation": ""
+    }
+  },
+  "form4": [
+    {
+      "form_type": "4",
+      "accession_number": "0001696841-26-000014",
+      "filing_date": "2026-09-23",
+      "reporting_owner": {
+        "name": "Timothy S. Teter",
+        "relationship": "Officer",
+        "officer_title": "EVP, General Counsel and Sec",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-21",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 12483.0,
+          "price_per_share": 222.1932,
+          "transaction_amount": 2773637.7155999998,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2",
+            "F3",
+            "F4"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-21",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 13478.0,
+          "price_per_share": 223.0489,
+          "transaction_amount": 3006253.0742,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F5",
+            "F4"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-21",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 4499.0,
+          "price_per_share": 223.7479,
+          "transaction_amount": 1006641.8021,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F6",
+            "F4"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The reported transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 22, 2026.",
+        "F2": "Represents weighted average sales price. The shares were sold at prices ranging from $221.59 to $222.58. The Reporting Person will provide upon request, to the Securities and Exchange Commission (the \"SEC\"), the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F3": "Reflects 30,460 shares transferred without consideration from the Reporting Person to The Horne Teter Family Living Trust, dated 02/01/2019 (the \"Trust\"), of which the Reporting Person is trustee.",
+        "F4": "Shares held by the Trust.",
+        "F5": "Represents weighted average sales price. The shares were sold at prices ranging from $222.59 to $223.58. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F6": "Represents weighted average sales price. The shares were sold at prices ranging from $223.59 to $224.00. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001199039-26-000016",
+      "filing_date": "2026-09-22",
+      "reporting_owner": {
+        "name": "Mark A Stevens",
+        "relationship": "Director",
+        "officer_title": "Director",
+        "is_officer": false,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-18",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1356000.0,
+          "price_per_share": 219.7219,
+          "transaction_amount": 297942896.40000004,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-18",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 10000.0,
+          "price_per_share": 220.4199,
+          "transaction_amount": 2204199.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents weighted average sales price. The shares were sold at prices ranging from $219.40 to $220.35. The Reporting Person will provide upon request, to the Securities and Exchange Commission (the \"SEC\"), the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F2": "Held by the Third Millennium Trust, of which the Reporting Person and his wife are co-trustees.",
+        "F3": "Represents weighted average sales price. The shares were sold at prices ranging from $220.41 to $220.48. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F4": "Held by the Envy Trust u/a/d December 7, 2021, of which the Reporting Person is trustee."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001243821-26-000007",
+      "filing_date": "2026-09-18",
+      "reporting_owner": {
+        "name": "Scott Gawel",
+        "relationship": "Officer",
+        "officer_title": "Principal Accounting Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-16",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 2932.0,
+          "price_per_share": 212.17,
+          "transaction_amount": 622082.44,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents shares withheld by the Issuer to satisfy taxes due by the Reporting Person in connection with the vesting of restricted stock units previously reported on a Form 4.",
+        "F2": "Includes 2,498 shares issued upon the vesting of restricted stock units previously reported on a Form 4."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001283854-26-000010",
+      "filing_date": "2026-09-18",
+      "reporting_owner": {
+        "name": "Debora Shoquist",
+        "relationship": "Officer",
+        "officer_title": "EVP, Operations",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-16",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 35008.0,
+          "price_per_share": 212.17,
+          "transaction_amount": 7427647.359999999,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2",
+            "F3"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents shares withheld by the Issuer to satisfy taxes due by the Reporting Person in connection with the vesting of restricted stock units previously reported on a Form 4.",
+        "F2": "Includes 31,190 shares issued upon the vesting of restricted stock units previously reported on a Form 4.",
+        "F3": "Reflects a transfer of 187,319 shares from the Reporting Person to the Debora C. Shoquist Revocable Living Trust (the \"Trust\"), of which the Reporting Person is a trustee.",
+        "F4": "The shares are held by the Trust."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001696841-26-000012",
+      "filing_date": "2026-09-18",
+      "reporting_owner": {
+        "name": "Timothy S. Teter",
+        "relationship": "Officer",
+        "officer_title": "EVP, General Counsel and Sec",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-16",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 35738.0,
+          "price_per_share": 212.17,
+          "transaction_amount": 7582531.46,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents shares withheld by the Issuer to satisfy taxes due by the Reporting Person in connection with the vesting of restricted stock units previously reported on a Form 4.",
+        "F2": "Includes 30,460 shares issued upon the vesting of restricted stock units previously reported on a Form 4.",
+        "F3": "Shares held by The Horne Teter Family Living Trust, dated 02/01/2019, of which the Reporting Person is trustee."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001588670-26-000014",
+      "filing_date": "2026-09-18",
+      "reporting_owner": {
+        "name": "Colette Kress",
+        "relationship": "Officer",
+        "officer_title": "EVP & Chief Financial Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common",
+          "transaction_date": "2026-09-16",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 40747.0,
+          "price_per_share": 212.17,
+          "transaction_amount": 8645290.99,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common",
+          "transaction_date": "2026-09-17",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 4681.0,
+          "price_per_share": 218.0144,
+          "transaction_amount": 1020525.4064,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3",
+            "F4"
+          ]
+        },
+        {
+          "security_title": "Common",
+          "transaction_date": "2026-09-17",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 20369.0,
+          "price_per_share": 219.0172,
+          "transaction_amount": 4461161.3468,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3",
+            "F5"
+          ]
+        },
+        {
+          "security_title": "Common",
+          "transaction_date": "2026-09-17",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 9868.0,
+          "price_per_share": 219.5932,
+          "transaction_amount": 2166945.6976,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3",
+            "F6"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents shares withheld by the Issuer to satisfy taxes due by the Reporting Person in connection with the vesting of restricted stock units previously reported on a Form 4.",
+        "F2": "Includes 36,303 shares issued upon the vesting of restricted stock units previously reported on a Form 4 and 127 shares purchased pursuant to the Issuer's Employee Stock Purchase Plan on August 31, 2026.",
+        "F3": "The reported transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 16, 2026.",
+        "F4": "Represents weighted average sales price. The shares were sold at prices ranging from $217.42 to $218.40. The Reporting Person will provide upon request, to the Securities and Exchange Commission (the \"SEC\"), the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F5": "Represents weighted average sales price. The shares were sold at prices ranging from $218.42 to $219.415. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F6": "Represents weighted average sales price. The shares were sold at prices ranging from $219.42 to $219.865. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001197649-26-000012",
+      "filing_date": "2026-09-18",
+      "reporting_owner": {
+        "name": "Jen Hsun Huang",
+        "relationship": "Officer",
+        "officer_title": "President and CEO",
+        "is_officer": true,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-16",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 45728.0,
+          "price_per_share": 212.17,
+          "transaction_amount": 9702109.76,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-17",
+          "transaction_code": "G",
+          "acquired_disposed": "D",
+          "shares": 438000.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3",
+            "F4"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents shares withheld by the Issuer to satisfy taxes due by the Reporting Person in connection with the vesting of restricted stock units previously reported on a Form 4.",
+        "F2": "Includes 46,501 shares issued upon the vesting of restricted stock units previously reported on a Form 4 and 142 shares purchased pursuant to the Issuer's Employee Stock Purchase Plan on August 31, 2026.",
+        "F3": "Gifts without consideration by the Jen-Hsun & Lori Huang Living Trust, u/a/d May 1, 1995 (the \"Trust\"), of 292,000 shares to The Jen-Hsun & Lori Huang Foundation, a 501(c)(3) charitable organization, and 146,000 shares to a donor-advised fund.",
+        "F4": "The shares are held by the Trust, of which the Reporting Person is a trustee.",
+        "F5": "The shares are held by The Huang 2012 Irrevocable Trust, of which the Reporting Person is a trustee.",
+        "F6": "The shares are held by The Huang Irrevocable Remainder Trust u/a/d February 19, 2016, of which the Reporting Person is a trustee.",
+        "F7": "The shares are held by TARG S1 LLC, of which the Trust is the sole member.",
+        "F8": "The shares are held by TARG M1 LLC, of which the Trust is the sole member.",
+        "F9": "The shares are held by TARG S2 LLC, of which the Trust is the sole member.",
+        "F10": "The shares are held by TARG M2 LLC, of which the Trust is the sole member.",
+        "F11": "The shares are held by TARG S3 LLC, of which the Trust is the sole member.",
+        "F12": "The shares are held by TARG M3 LLC, of which the Trust is the sole member."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0002152188-26-000005",
+      "filing_date": "2026-09-11",
+      "reporting_owner": {
+        "name": "Nicholas P. Parker",
+        "relationship": "Officer",
+        "officer_title": "EVP, Worldwide Field Ops",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-09",
+          "transaction_code": "A",
+          "acquired_disposed": "A",
+          "shares": 172507.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The restricted stock units (\"RSUs\") shall vest as to 10% of the shares on December 9, 2026 and every three months thereafter for three quarters, as to 7.5% of the shares every three months thereafter for four quarters, as to 5% of the shares every three months thereafter for four quarters, and as to 2.5% of the shares every three months thereafter for four quarters, such that the shares are fully vested on approximately the four (4) year anniversary of the date of grant.",
+        "F2": "The shares represent RSUs that were received as an award, for no consideration."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001199039-26-000014",
+      "filing_date": "2026-09-08",
+      "reporting_owner": {
+        "name": "Mark A Stevens",
+        "relationship": "Director",
+        "officer_title": "Director",
+        "is_officer": false,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-03",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 198707.0,
+          "price_per_share": 227.6954,
+          "transaction_amount": 45244669.8478,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-03",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1293.0,
+          "price_per_share": 228.2703,
+          "transaction_amount": 295153.4979,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-03",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 200000.0,
+          "price_per_share": 229.8705,
+          "transaction_amount": 45974100.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F4",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-04",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 197180.0,
+          "price_per_share": 230.4039,
+          "transaction_amount": 45431041.002,
+          "currency": "USD",
+          "footnote_ids": [
+            "F5",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-04",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 237820.0,
+          "price_per_share": 231.1677,
+          "transaction_amount": 54976302.414,
+          "currency": "USD",
+          "footnote_ids": [
+            "F6",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-04",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 182628.0,
+          "price_per_share": 233.4615,
+          "transaction_amount": 42636606.822,
+          "currency": "USD",
+          "footnote_ids": [
+            "F7",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-04",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 4611.0,
+          "price_per_share": 234.0043,
+          "transaction_amount": 1078993.8273,
+          "currency": "USD",
+          "footnote_ids": [
+            "F8",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents weighted average sales price. The shares were sold at prices ranging from $227.25 to $228.2493. The Reporting Person will provide upon request, to the Securities and Exchange Commission (the \"SEC\"), the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F2": "Held by the Third Millennium Trust, of which the Reporting Person and his wife are co-trustees.",
+        "F3": "Represents weighted average sales price. The shares were sold at prices ranging from $228.25 to $228.2881. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F4": "Represents weighted average sales price. The shares were sold at prices ranging from $229.545 to $230.16. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F5": "Represents weighted average sales price. The shares were sold at prices ranging from $230.00 to $230.999. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F6": "Represents weighted average sales price. The shares were sold at prices ranging from $231.00 to $231.75. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F7": "Represents weighted average sales price. The shares were sold at prices ranging from $233.00 to $233.9997. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F8": "Represents weighted average sales price. The shares were sold at prices ranging from $234.00 to $234.0397. The Reporting Person will provide upon request, to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price.",
+        "F9": "Held by the Envy Trust u/a/d December 7, 2021, of which the Reporting Person is trustee."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001197647-26-000009",
+      "filing_date": "2026-09-04",
+      "reporting_owner": {
+        "name": "Tench Coxe",
+        "relationship": "Director",
+        "officer_title": "Director",
+        "is_officer": false,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common",
+          "transaction_date": "2026-09-02",
+          "transaction_code": "G",
+          "acquired_disposed": "D",
+          "shares": 500000.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2",
+            "F3"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The reported transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026.",
+        "F2": "Gift without consideration.",
+        "F3": "Shares held by a trust of which the reporting person is a trustee. The reporting person disclaims beneficial ownership in these shares except as to the reporting person's pecuniary interest in the trust.",
+        "F4": "Shares held by SHV Profit Sharing Plan, a retirement trust, for the benefit of the Reporting Person."
+      }
+    }
+  ]
+}

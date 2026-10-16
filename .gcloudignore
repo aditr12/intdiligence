@@ -1,0 +1,9 @@
+# Backend build context: only src/, data/, .cache/ and backend/ are needed
+.git
+.gitignore
+.DS_Store
+.vscode/
+venv/
+frontend/
+app.py
+**/__pycache__/

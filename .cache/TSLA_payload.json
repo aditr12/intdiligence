@@ -1,0 +1,1038 @@
+{
+  "_meta": {
+    "description": "Live SEC EDGAR filings for TSLA",
+    "is_mock": false,
+    "ticker": "TSLA",
+    "company_name": "Tesla, Inc.",
+    "cik": "0001318605",
+    "fetched_at": "2026-09-28T17:57:32.263218+00:00"
+  },
+  "def14a": {
+    "form_type": "DEF 14A",
+    "accession_number": "0001104659-25-090866",
+    "filing_date": "2025-09-17",
+    "peo_name": "Mr. Musk",
+    "peo_total_comp": null,
+    "excerpts": {
+      "summary_compensation_table": "",
+      "potential_payments_upon_termination_or_cic": "Potential Payments Upon Termination or Change in Control as of December 31, 2024\n \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  150      Outstanding Equity Awards at 2024 Fiscal Year-End\n  151      2024 Option Exercises and Stock Vested\n  151      2024 Pay Ratio Disclosure\n  152      Compensation of Directors\n  154      Pledging of Shares\n  155      Equity Compensation Plan Information\n  157      Certain Relationships and Related Person Transactions\n  157      Review of Related Person Transactions\n  157      Related Person Transactions\n  158      Shareholder Proposal Regarding Board Authorization of Investment in xAI\n  158      Other Transactions\n  159      Delinquent Section 16(a) Reports\n  160      Ownership of Securities\n  162      Audit Related Matters\n  165      Other Matters\n  166      Questions and Answers About the 2025 Annual Meeting and Procedural Matters\n  A-1      Annex A \u2014 Special Committee Report\n  B-1      Annex B \u2014 A&R 2019 Equity Incentive Plan\n  C-1      Annex C \u2014 2025 CEO Performance Award Agreement\n  D-1      Annex D \u2014 Voting Agreement\n  E-1      Annex E \u2014 First Amended and Restated Certificate of Formation\n  F-1      Annex F \u2014 Second Amended and Restated Bylaws\n\n\n  Frequently Requested Information\n                                 3      Investor Outreach and Engagement\n                                 5      Our Board\u2019s Commitment to Governance\n                                 9      Key Skills\n                               118      Succession Planning\n                               119      Director Independence\n                               120      Board Role in Risk Oversight\n\n  121      Commitment of Our Directors\n  128      Stock Ownership by the Board and Management\n  151      2024 Pay Ratio Disclosure\n  154      Pledging of Shares\n  157      Related Person Transactions\n  178      Who Can Help Answer My Questions on Voting?\n\n\nTESLA, INC. 1 Tesla Road Austin, Texas 78725\n\nProxy Statement\n\nFor 2025 Annual Meeting of Shareholders\n\nImportant Notice Regarding the Availability of Proxy Materials for the Shareholder Meeting to be Held on November 6, 2025\n\nThe proxy statement and annual report are available at www.proxyvote.com.\n\nIn accordance with U.S. Securities and Exchange Commission (the \u201cSEC\u201d) rules, we are providing access to our proxy materials over the Internet to our shareholders rather than in paper form, which reduces the environmental impact of our annual meeting and our costs.\n\nAccordingly, if you are a shareholder of record, a one-page Notice of Internet Availability has been mailed to you on or about September 17, 2025. Shareholders of record may access the proxy materials on the website listed above or request a printed set of the proxy materials be sent to them by following the instructions in the Notice of Internet Availability. The Notice of Internet Availability also explains how you may request that we send future proxy materials to you by e-mail or in printed form by mail. If you choose the e-mail option, you will receive an e-mail next year with links to those materials and to the proxy voting site. We encourage you to choose this e-mail option, which will allow us to provide you with the information you need in a timelier manner, save us the cost of printing and mailing documents to you and conserve natural resources. Your election to receive proxy materials by e-mail or in printed form by mail will remain in effect until you terminate it.\n\nIf you are a beneficial owner, you will not receive a Notice of Internet Availability directly from us, but your broker, bank or other intermediary will forward you a notice with instructions on accessing our proxy materials and directing that organization how to vote your shares, as well as other options that may be available to you for receiving our proxy materials.\n\nPlease refer to the question entitled \u201cWhat is the difference between holding shares as a shareholder of record or as a beneficial owner? \u201d under \u201cQuestions and Answers About the 2025 Annual Meeting and Procedural Matters\u201d below for important details regarding different forms of stock ownership. Please refer to the question entitled \u201cWho can help answer my questions? \u201d under \u201cQuestions and Answers about the Annual Meeting and Procedural Matters\u201d below if you have any questions or require assistance with voting your shares.\n\nForward-Looking Statements\n\nThe discussions in this proxy statement contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 reflecting our current expectations that involve risks and uncertainties. These forward-looking statements include, without limitation, (i) statements concerning our goals, commitments, strategies and mission, (ii) statements concerning our plans and expectations regarding the A&R 2019 Equity Incentive Plan (as defined below) and the 2025 CEO Performance Award (as defined below), (iii) statements regarding continued CEO retention and incentivization from the A&R 2019 Equity Incentive Plan and the 2025 CEO Performance Award, (iv) statements regarding the potential benefits, implications, risks or costs of the A&R 2019 Equity Incentive Plan and the 2025 CEO Performance Award, (v) statements regarding the anticipated accounting treatment or tax effects of the 2025 CEO Interim Award (as defined below) or any Musk Award (as defined below), including the impact of volatility of markets, (vi) statements regarding our strategy, competition, future operations, future financial position, projected costs or profitability, (vii) expectations regarding demand and acceptance for our technologies, growth opportunities and trends in the markets in which we operate, (viii) prospects and plans and objectives of management and (ix) expectations about shareholder intentions, views and reactions.\n\n2025 Proxy Statement 1\n\n\nThe words \u201canticipates,\u201d \u201cbelieves,\u201d \u201ccontinues,\u201d \u201ccould,\u201d \u201cdesign,\u201d \u201cdrive,\u201d \u201cestimates,\u201d \u201cexpects,\u201d \u201cfuture,\u201d \u201cgoals,\u201d \u201cintends,\u201d \u201clikely,\u201d \u201cmay,\u201d \u201cplans,\u201d \u201cpotential,\u201d \u201cseek,\u201d \u201csets,\u201d \u201cshall,\u201d \u201cshould,\u201d \u201cspearheads,\u201d \u201cspurring,\u201d \u201cwill,\u201d \u201cwould\u201d and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements that we make.\n\nThese forward-looking statements involve risks and uncertainties that could cause our actual results to differ materially from those in the forward-looking statements, including, without limitation, those risks (i) related to the A&R 2019 Equity Incentive Plan and the 2025 CEO Performance Award, (ii) set forth in Part I, Item 1A, \u201cRisk Factors\u201d of the Annual Report on Form 10-K for the fiscal year ended December 31, 2024, (iii) set forth in Part II, Item 1A \u201cRisk Factors\u201d of the Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025, (iv) set forth in Part II, Item 1A \u201cRisk Factors\u201d of the Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2025 and (v) that are otherwise described or updated from time to time in our other filings with the SEC. The discussion of such risks is not an indication that any such risks have occurred at the time of this filing. We do not assume any obligation to update any forward-looking statements.\n\n2 2025 Proxy Statement\n\n\nInvestor Outreach and Engagement\n\nOur Approach\n\n  Our unique business requires a unique approach to corporate governance, and our mission requires a long-term focus that we believe will ultimately maximize value to our employees and our shareholders. Governance at Tesla is thoughtfully designed to drive the cornerstone of good corporate governance: ",
+      "golden_parachute_compensation": ""
+    }
+  },
+  "form4": [
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-106432",
+      "filing_date": "2026-09-09",
+      "reporting_owner": {
+        "name": "Vaibhav Taneja",
+        "relationship": "Officer",
+        "officer_title": "Chief Financial Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-05",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 6539.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-09-08",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2605.75,
+          "price_per_share": 360.134,
+          "transaction_amount": 938419.1705,
+          "currency": "USD",
+          "footnote_ids": [
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Shares of the Issuer's common stock were issued to the reporting person upon the vesting of restricted stock units on September 5, 2026.",
+        "F2": "PURSUANT TO THE ISSUER'S EQUITY PLAN AND POLICIES, THESE SHARES OF COMMON STOCK WERE AUTOMATICALLY WITHHELD AND SOLD BY THE ISSUER TO SATISFY THE REPORTING PERSON'S TAX WITHHOLDING OBLIGATIONS RELATED TO THE VESTING OF RESTRICTED STOCK UNITS REPORTED HEREIN.",
+        "F3": "55,500 shares are held directly by the reporting person in GRATs, for which the reporting person is a trustee, and 55,500 shares are held directly by the spouse of the reporting person in GRATs, for which the spouse of the reporting person is a trustee.",
+        "F4": "1/16 of the total restricted stock units initially subject to this award vested on December 5, 2024 and 1/16th of the total units initially subject to this award vest every quarter thereafter, so that all such shares subject to this award will be fully vested on September 5, 2028."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-075213",
+      "filing_date": "2026-06-17",
+      "reporting_owner": {
+        "name": "Musk Elon",
+        "relationship": "Officer",
+        "officer_title": "CEO",
+        "is_officer": true,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-06-16",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 303960630.0,
+          "price_per_share": 23.34,
+          "transaction_amount": 7094441104.2,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-06-16",
+          "transaction_code": "F",
+          "acquired_disposed": "D",
+          "shares": 17531857.0,
+          "price_per_share": 404.66,
+          "transaction_amount": 7094441253.620001,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents shares of restricted stock underlying exercise of a performance-based stock option award to purchase shares of common stock of Tesla, Inc. (the \"Company\" and such award, the \"Award\") in accordance with an implementation agreement, dated April 21, 2026 (the \"Implementation Agreement\") between the Company and the Reporting Person. The Reporting Person delivered notice of the intended exercise date and method to the Company on June 9, 2026 in accordance with the five business day notice period pursuant to the Implementation Agreement. The shares of restricted stock are scheduled to vest on January 19, 2028, subject to the Reporting Person's satisfaction of a service-based vesting condition.",
+        "F2": "Includes 423,743,904 shares of restricted stock that were granted pursuant to Tesla, Inc.'s 2025 CEO Performance Award in twelve equal tranches, and were issued following receipt of all necessary approvals. The shares of restricted stock are subject to a voting agreement, and the Reporting Person has given an irrevocable proxy to the Company's secretary to vote the shares in accordance with the terms of the voting agreement. The earning of each tranche is subject to satisfaction of certain conditions. If earned on or prior to September 3, 2030, the tranches of restricted stock will vest on March 3, 2033, and if earned from September 4, 2030 through September 3, 2035, the tranches of restricted stock will vest on September 3, 2035, in each case subject to satisfaction of certain conditions.",
+        "F3": "Represents shares of common stock withheld by the Company in connection with net share settlement, in accordance with the Implementation Agreement, to satisfy the Reporting Person's exercise price obligations related to the Reporting Person's exercise of the Award. The transaction did not involve any open-market sales of securities.",
+        "F4": "The Elon Musk Revocable Trust dated July 22, 2003, for which the Reporting Person is the trustee.",
+        "F5": "On January 21, 2018, the Reporting Person was granted the Award, which was originally in respect of 20,264,042 shares of common stock of the Company at an exercise price of $350.02, by the Company's board of directors, subject to shareholder approval of the Award. The Company's shareholders approved the Award on March 21, 2018. The Award was adjusted to give effect to a five-for-one forward split of the Company's common stock in the form of a stock dividend distributed on August 28, 2020 and a three-for-one forward split of the Company's common stock in the form of a stock dividend distributed on August 24, 2022. The Award's split-adjusted exercise price is $23.34. The shares vested in twelve equal installments upon the achievement of performance milestones that were based on operational and market capitalization metrics."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-071970",
+      "filing_date": "2026-06-09",
+      "reporting_owner": {
+        "name": "Vaibhav Taneja",
+        "relationship": "Officer",
+        "officer_title": "Chief Financial Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-06-05",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 6538.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2605.5,
+          "price_per_share": 402.197,
+          "transaction_amount": 1047924.2835,
+          "currency": "USD",
+          "footnote_ids": [
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Shares of the Issuer's common stock were issued to the reporting person upon the vesting of restricted stock units on June 5, 2026.",
+        "F2": "PURSUANT TO THE ISSUER'S EQUITY PLAN AND POLICIES, THESE SHARES OF COMMON STOCK WERE AUTOMATICALLY WITHHELD AND SOLD BY THE ISSUER TO SATISFY THE REPORTING PERSON'S TAX WITHHOLDING OBLIGATIONS RELATED TO THE VESTING OF RESTRICTED STOCK UNITS REPORTED HEREIN.",
+        "F3": "55,500 shares are held directly by the reporting person in GRATs, for which the reporting person is a trustee, and 55,500 shares are held directly by the spouse of the reporting person in GRATs, for which the spouse of the reporting person is a trustee.",
+        "F4": "1/16 of the total restricted stock units initially subject to this award vested on December 5, 2024 and 1/16th of the total units initially subject to this award vest every quarter thereafter, so that all such shares subject to this award will be fully vested on September 5, 2028."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-062860",
+      "filing_date": "2026-05-15",
+      "reporting_owner": {
+        "name": "Vaibhav Taneja",
+        "relationship": "Officer",
+        "officer_title": "Chief Financial Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-05-13",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 1000.0,
+          "price_per_share": 18.44,
+          "transaction_amount": 18440.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-05-13",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 2000.0,
+          "price_per_share": 18.22,
+          "transaction_amount": 36440.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-05-13",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 3000.0,
+          "price_per_share": 450.0,
+          "transaction_amount": 1350000.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 17, 2025.",
+        "F2": "Out of the total of 3,000 shares sold on May 13, 2026, approximately 1,337 shares were sold to cover the exercise price, and to satisfy the reporting person's tax withholding obligations related to the exercise of stock options to purchase 3,000 shares as reported herein.",
+        "F3": "55,500 shares are held directly by the reporting person in GRATs, for which the reporting person is a trustee, and 55,500 shares are held directly by the spouse of the reporting person in GRATs, for which the spouse of the reporting person is a trustee.",
+        "F4": "Represents part of a single option award grant, including Incentive Stock Options. 1/60th of the aggregate shares subject to the option became vested and exercisable on November 1, 2018, and 1/60th of the shares subject to the option shall become vested and exercisable each month thereafter, so that all such shares subject to this option became fully vested on October 1, 2023.",
+        "F5": "1/8th of the shares subject to the option became vested and exercisable on September 13, 2019, and an additional 1/48th of the shares subject to the option vested each month thereafter, so that all such shares subject to this option became fully vested on March 13, 2023."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-055079",
+      "filing_date": "2026-05-04",
+      "reporting_owner": {
+        "name": "Kathleen Wilson-Thompson",
+        "relationship": "Director",
+        "officer_title": "Director",
+        "is_officer": false,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 40948.0,
+          "price_per_share": 14.99,
+          "transaction_amount": 613810.52,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 840.0,
+          "price_per_share": 369.01,
+          "transaction_amount": 309968.39999999997,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1520.0,
+          "price_per_share": 369.769,
+          "transaction_amount": 562048.88,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F3"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1275.0,
+          "price_per_share": 370.929,
+          "transaction_amount": 472934.475,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F4"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1020.0,
+          "price_per_share": 371.881,
+          "transaction_amount": 379318.62,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F5"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 619.0,
+          "price_per_share": 372.819,
+          "transaction_amount": 230774.961,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F6"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 520.0,
+          "price_per_share": 374.402,
+          "transaction_amount": 194689.03999999998,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F7"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 280.0,
+          "price_per_share": 375.149,
+          "transaction_amount": 105041.72,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F8"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1081.0,
+          "price_per_share": 376.689,
+          "transaction_amount": 407200.809,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F9"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 3003.0,
+          "price_per_share": 377.487,
+          "transaction_amount": 1133593.4610000001,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F10"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 3480.0,
+          "price_per_share": 378.573,
+          "transaction_amount": 1317434.04,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F11"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1760.0,
+          "price_per_share": 379.427,
+          "transaction_amount": 667791.52,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F12"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1755.0,
+          "price_per_share": 380.756,
+          "transaction_amount": 668226.7799999999,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F13"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 6896.0,
+          "price_per_share": 381.607,
+          "transaction_amount": 2631561.872,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F14"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 680.0,
+          "price_per_share": 382.414,
+          "transaction_amount": 260041.52,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F15"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1240.0,
+          "price_per_share": 383.612,
+          "transaction_amount": 475678.88,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F16"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 440.0,
+          "price_per_share": 384.284,
+          "transaction_amount": 169084.96,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F17"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 26, 2025.",
+        "F2": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $368.360 to $369.350, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F3": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $369.360 to $370.320, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F4": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $370.380 to $371.360, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F5": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $371.380 to $372.370, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F6": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $372.380 to $373.350, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F7": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $373.910 to $374.870, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F8": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $374.940 to $375.600, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F9": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $376.000 to $376.970, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F10": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $377.020 to $377.990, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F11": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $378.050 to $379.040, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F12": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $379.090 to $380.070, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F13": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $380.130 to $381.120, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F14": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $381.140 to $382.110, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F15": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $382.140 to $382.800, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F16": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $383.140 to $384.110, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F17": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $384.150 to $384.660, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F18": "1/36th of the shares granted shall become vested and exercisable as of each monthly anniversary from June 18, 2019, such that all shares subject to the option were fully vested and exercisable by June 18, 2022."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-047678",
+      "filing_date": "2026-04-23",
+      "reporting_owner": {
+        "name": "Musk Elon",
+        "relationship": "Officer",
+        "officer_title": "CEO",
+        "is_officer": true,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-04-21",
+          "transaction_code": "D",
+          "acquired_disposed": "D",
+          "shares": 96000000.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Represents a forfeiture of the restricted stock award granted pursuant to Tesla, Inc.'s 2019 Equity Incentive Plan on August 3, 2025, as a result of a Tornetta Decision Event (as defined in such restricted stock award).",
+        "F2": "Includes 423,743,904 shares of restricted stock that were granted pursuant to Tesla, Inc.'s 2025 CEO Performance Award in twelve equal tranches and were issued following receipt of all necessary approvals. The shares of restricted stock are subject to a voting agreement, and the Reporting Person has given an irrevocable proxy to the Company's secretary to vote the shares in accordance with the terms of the voting agreement. The earning of each tranche is subject to satisfaction of certain conditions. If earned on or prior to September 3, 2030, the tranches of restricted stock will vest on March 3, 2033, and if earned from September 4, 2030 through September 3, 2035, the tranches of restricted stock will vest on September 3, 2035, in each case subject to satisfaction of certain conditions.",
+        "F3": "The Elon Musk Revocable Trust dated July 22, 2003, for which the Reporting Person is the trustee."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001972928-26-000002",
+      "filing_date": "2026-04-02",
+      "reporting_owner": {
+        "name": "Xiaotong Zhu",
+        "relationship": "Officer",
+        "officer_title": "SVP",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-31",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 20000.0,
+          "price_per_share": 20.57,
+          "transaction_amount": 411400.0,
+          "currency": "USD",
+          "footnote_ids": []
+        }
+      ],
+      "footnotes": {
+        "F1": "The shares are held in Magical Blake Global Limited, a BVI entity, for which the Reporting Person is the sole beneficial owner.",
+        "F2": "Represents option awards granted with respect to 375,000 total shares initially, which vest as follows: (a) with respect to 150,000 shares subject to the options, 1/48th of such shares became vested and exercisable upon the Issuer's achievement of certain performance objectives set forth in the option agreements, and 1/48th of the shares become vested and exercisable on each monthly anniversary thereafter, and (b) with respect to 225,000 shares subject to the options, 1/60th of such shares became vested and exercisable on August 20, 2018, and 1/60th of the shares become vested and exercisable each month thereafter."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-038682",
+      "filing_date": "2026-04-01",
+      "reporting_owner": {
+        "name": "Kathleen Wilson-Thompson",
+        "relationship": "Director",
+        "officer_title": "Director",
+        "is_officer": false,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 40000.0,
+          "price_per_share": 14.99,
+          "transaction_amount": 599600.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2000.0,
+          "price_per_share": 352.833,
+          "transaction_amount": 705666.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1640.0,
+          "price_per_share": 353.658,
+          "transaction_amount": 579999.12,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F3"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1800.0,
+          "price_per_share": 354.802,
+          "transaction_amount": 638643.6000000001,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F4"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2481.0,
+          "price_per_share": 355.644,
+          "transaction_amount": 882352.764,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F5"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2360.0,
+          "price_per_share": 356.794,
+          "transaction_amount": 842033.84,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F6"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1120.0,
+          "price_per_share": 357.839,
+          "transaction_amount": 400779.68,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F7"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 520.0,
+          "price_per_share": 358.77,
+          "transaction_amount": 186560.4,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F8"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1880.0,
+          "price_per_share": 360.181,
+          "transaction_amount": 677140.2799999999,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F9"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 1000.0,
+          "price_per_share": 361.035,
+          "transaction_amount": 361035.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F10"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2320.0,
+          "price_per_share": 362.142,
+          "transaction_amount": 840169.44,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F11"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 4001.0,
+          "price_per_share": 363.083,
+          "transaction_amount": 1452695.083,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F12"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 3927.0,
+          "price_per_share": 363.947,
+          "transaction_amount": 1429219.869,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F13"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 560.0,
+          "price_per_share": 364.888,
+          "transaction_amount": 204337.28,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F14"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 120.0,
+          "price_per_share": 365.897,
+          "transaction_amount": 43907.64,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F15"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-30",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 80.0,
+          "price_per_share": 366.855,
+          "transaction_amount": 29348.4,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F16"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 26, 2025.",
+        "F2": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $352.220 to $353.210, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F3": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $353.250 to $354.230, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F4": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $354.250 to $355.220, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F5": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $355.260 to $356.250, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F6": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $356.300 to $357.290, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F7": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $357.310 to $358.190, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F8": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $358.370 to $359.300, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F9": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $359.550 to $360.470, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F10": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $360.570 to $361.520, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F11": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $361.570 to $362.550, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F12": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $362.580 to $363.570, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F13": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $363.580 to $364.560, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F14": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $364.590 to $365.540, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F15": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $365.690 to $366.230, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F16": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $366.690 to $367.020, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F17": "1/36th of the shares granted shall become vested and exercisable as of each monthly anniversary from June 18, 2019, such that all shares subject to the option were fully vested and exercisable by June 18, 2022."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-025379",
+      "filing_date": "2026-03-09",
+      "reporting_owner": {
+        "name": "Vaibhav Taneja",
+        "relationship": "Officer",
+        "officer_title": "Chief Financial Officer",
+        "is_officer": true,
+        "is_director": false
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": false,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-05",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 6538.0,
+          "price_per_share": 0.0,
+          "transaction_amount": 0.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-03-06",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2264.5,
+          "price_per_share": 397.031,
+          "transaction_amount": 899076.6995,
+          "currency": "USD",
+          "footnote_ids": [
+            "F3"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "Shares of the Issuer's common stock were issued to the reporting person upon the vesting of restricted stock units on March 5, 2026.",
+        "F2": "The amount of securities beneficially owned includes 76 shares acquired on February 27, 2026, under the Tesla, Inc. Employee Stock Purchase Plan.",
+        "F3": "PURSUANT TO THE ISSUER'S EQUITY PLAN AND POLICIES, THESE SHARES OF COMMON STOCK WERE AUTOMATICALLY WITHHELD AND SOLD BY THE ISSUER TO SATISFY THE REPORTING PERSON'S TAX WITHHOLDING OBLIGATIONS RELATED TO THE VESTING OF RESTRICTED STOCK UNITS REPORTED HEREIN.",
+        "F4": "55,500 shares are held directly by the reporting person in GRATs, for which the reporting person is a trustee, and 55,500 shares are held directly by the spouse of the reporting person in GRATs, for which the spouse of the reporting person is a trustee.",
+        "F5": "1/16 of the total restricted stock units initially subject to this award vested on December 5, 2024 and 1/16th of the total units initially subject to this award vest every quarter thereafter, so that all such shares subject to this award will be fully vested on September 5, 2028."
+      }
+    },
+    {
+      "form_type": "4",
+      "accession_number": "0001104659-26-021746",
+      "filing_date": "2026-02-27",
+      "reporting_owner": {
+        "name": "Kathleen Wilson-Thompson",
+        "relationship": "Director",
+        "officer_title": "Director",
+        "is_officer": false,
+        "is_director": true
+      },
+      "rule_10b5_1": {
+        "is_10b5_1_plan": true,
+        "adoption_date": null
+      },
+      "transactions": [
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "M",
+          "acquired_disposed": "A",
+          "shares": 40000.0,
+          "price_per_share": 14.99,
+          "transaction_amount": 599600.0,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 80.0,
+          "price_per_share": 412.46,
+          "transaction_amount": 32996.799999999996,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F2"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 4777.0,
+          "price_per_share": 413.952,
+          "transaction_amount": 1977448.704,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F3"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 7501.0,
+          "price_per_share": 414.85,
+          "transaction_amount": 3111789.85,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F4"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 6825.0,
+          "price_per_share": 415.862,
+          "transaction_amount": 2838258.1500000004,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F5"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 3148.0,
+          "price_per_share": 416.824,
+          "transaction_amount": 1312161.952,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F6"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 2960.0,
+          "price_per_share": 417.516,
+          "transaction_amount": 1235847.36,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F7"
+          ]
+        },
+        {
+          "security_title": "Common Stock",
+          "transaction_date": "2026-02-25",
+          "transaction_code": "S",
+          "acquired_disposed": "D",
+          "shares": 440.0,
+          "price_per_share": 418.888,
+          "transaction_amount": 184310.72,
+          "currency": "USD",
+          "footnote_ids": [
+            "F1",
+            "F8"
+          ]
+        }
+      ],
+      "footnotes": {
+        "F1": "The transactions reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on November 26, 2025.",
+        "F2": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $412.210 to $412.710, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F3": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $413.320 to $414.310, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F4": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $414.320 to $415.310, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F5": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $415.320 to $416.310, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F6": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $416.330 to $417.320, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F7": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $417.330 to $418.310, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F8": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $418.500 to $419.410, inclusive. The reporting person undertakes to provide Tesla, Inc., any security holder of Tesla, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.",
+        "F9": "1/36th of the shares granted shall become vested and exercisable as of each monthly anniversary from June 18, 2019, such that all shares subject to the option were fully vested and exercisable by June 18, 2022."
+      }
+    }
+  ]
+}
